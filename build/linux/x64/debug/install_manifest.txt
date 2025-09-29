@@ -1,0 +1,13 @@
+/home/arthur/other/defit/build/linux/x64/debug/bundle/meme
+/home/arthur/other/defit/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/arthur/other/defit/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/arthur/other/defit/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/arthur/other/defit/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/arthur/other/defit/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/arthur/other/defit/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/arthur/other/defit/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/arthur/other/defit/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/arthur/other/defit/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/arthur/other/defit/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/arthur/other/defit/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/arthur/other/defit/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z

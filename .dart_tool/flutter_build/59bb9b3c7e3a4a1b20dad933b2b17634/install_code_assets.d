@@ -1,0 +1,1 @@
+ /home/arthur/other/defit/.dart_tool/flutter_build/59bb9b3c7e3a4a1b20dad933b2b17634/native_assets.json: 
